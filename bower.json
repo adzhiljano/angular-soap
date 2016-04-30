@@ -6,7 +6,7 @@
     "andrewmcgivery <andrew@mcgivery.com>"
   ],
   "description": "An angular port of a Javascript SOAP Client into a factory that has a similar syntax to $http.",
-  "main": ["soapclient.js","angular.soap.js"],
+  "main": ["angular.soap.js"],
   "keywords": [
     "soap",
     "angular",
@@ -20,5 +20,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+	"dependencies": {
+    "soapclient": "adzhiljano/js-soap-client#889d0d99a37759249f72fc7500dbdd73e362c552"
+  }
 }
