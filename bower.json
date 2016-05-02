@@ -22,6 +22,6 @@
     "tests"
   ],
 	"dependencies": {
-    "soapclient": "adzhiljano/js-soap-client#889d0d99a37759249f72fc7500dbdd73e362c552"
+    "soapclient": "adzhiljano/js-soap-client#92c2f27b5b306ad55cc070d7a28f881bdc02ee80"
   }
 }
